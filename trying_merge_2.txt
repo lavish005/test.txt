@@ -1,0 +1,2 @@
+
+I am in master branch and it has a copy in branch_2 in txt 
