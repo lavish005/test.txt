@@ -1,0 +1,12 @@
+
+I am trying diff command in c
+How to use it: 
+make a file and write some content in it and then add it in staging area and again inn the same file add  a new content 
+and check the diff 
+git diff file name
+
+
+
+
+i am writting a new content to check DIFF
+
