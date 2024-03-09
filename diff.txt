@@ -1,2 +1,5 @@
  MY NAME IS GIT REPO 
  adding new
+
+
+ after commit 

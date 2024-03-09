@@ -1,0 +1,2 @@
+
+hi i am trying to reset the file in staging area
