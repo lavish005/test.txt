@@ -2,4 +2,7 @@
 Hi this is sample 1
 And i am doing changes from git global repo 
 
+
 HI I AM TRYING MERGE CONFLICT 
+
+HI I AM TRYING MERGE CONFLICT IN GIT GLOBAL  
